@@ -5,7 +5,7 @@ description: 页面的描述
 home: true
 heroImage: /images/logo.jpg
 heroText: kz
-tagline: Java的初学者
+tagline: aaaaa
 actions:
   - text: 快速上手
     link: /zh/guide/getting-started.html
